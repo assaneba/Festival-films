@@ -1,0 +1,10 @@
+#Mettre tout ce qui n'est produit by me
+
+css/bootstrap-responsive.min.css
+css/bootstrap.min.css
+font/
+images/
+js/vendor/
+.DS_Store
+css/.DS_Store
+js/.DS_Store
